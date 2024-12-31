@@ -4,12 +4,12 @@ table {
   border-collapse: collapse;
   border-width: 0px 0px 1px 1px; 
   border-style: solid;           
-  border-color: rgb(255, 165, 0); 
+  border-color: orange;
 }
 
-/* Header cells */
+
 thead th {
-  background-color: rgb(136, 136, 136); 
+  background-color:#888888;
   color: rgb(255, 255, 255);        
   text-align: center;                  
   border-width: 1px 1px 0px 0px;       
@@ -22,13 +22,12 @@ tbody td {
   text-align: center;                  
   border-width: 1px 1px 0px 0px;       
   border-style: solid;              
-  border-color: rgb(255, 165, 0);   
+  border-color: orange; 
   padding: 3px 5px;                    
 }
 
 .sub-total-row .sub-total-text {
   text-align: right; 
-  font-weight: bold;
 }
 
 
