@@ -1,6 +1,6 @@
- table {
-	      border-width: 1px solid orange;
-	          }
+        table {
+	        border-width: 0px 0px 1px 1px ;
+        }
 
         th, td {
             border: 1px solid orange;
